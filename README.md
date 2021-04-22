@@ -1,5 +1,5 @@
 # WWDC2021_submission
-Simple graph algorithm animations in swift playgrounds
+Simple graph algorithm animations in swift playgrounds (outreach focused)
 
 
 ## TODO
